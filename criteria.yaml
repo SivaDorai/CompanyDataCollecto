@@ -1,0 +1,8 @@
+yellow-ae:
+  search-url: "https://www.yellowpages.ae/search/"
+  search-tag: "a"
+  search-keyword: "fruits-&-vegetables" 
+yellow-au:
+  search-url: "https://www.yellowpages.com.au/search/listings?clue="
+  search-tag: "h3"
+  search-keyword: "fruits+&+vegetables"   

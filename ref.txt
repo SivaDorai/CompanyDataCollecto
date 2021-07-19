@@ -1,0 +1,10 @@
+#webbrowser.WindowsDefault.open(webbrowser.WindowsDefault,  "www.google.co.in/search?q=" + search_keyword)
+#page = requests.get(url + search_keyword)
+#soup = BeautifulSoup(page.content, "html.parser")
+# Get search box element from webElement 'q' using Find Element
+#search_box = driver.find_element(By.NAME, "q")
+# Enter "webdriver" text and perform "ENTER" keyboard action
+#driver.find_element(By.NAME, "q").send_keys("webdriver" + Keys.ENTER)
+#search_box.send_keys("webdriver")
+#element = driver.findElement(By.CSS_SELECTOR, "h1")
+#driver.close() # close the window
